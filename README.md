@@ -47,7 +47,7 @@ The complete [PDF can be found here](images/presentation_sample.pdf)
 2. Click `New Project → Import from GitHub`  
 3. Paste the repo URL:  
    ```
-   https://github.com/mrislambd/unofficial-FSU-beamer-theme-template
+   https://github.com/rispace/unofficial-FSU-beamer-theme-template
    ```
 
 ### Option 2: Download ZIP
@@ -76,5 +76,5 @@ Ph.D. Candidate in Mathematics
 Florida State University  
 
 Email: `rislam@fsu.edu`  
-GitHub: [mrislambd](https://github.com/mrislambd)
+GitHub: [rispace](https://github.com/rispace)
 
